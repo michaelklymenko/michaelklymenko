@@ -1,15 +1,15 @@
 # Data Analytics Portfolio
 
-Hi, I’m Misha - Data Analyst with 2+ years of experience, building practical analytics projects focused on business insight, data quality and dashboarding.
+Hi, I’m Misha - Data Analyst with 2+ years of experience focused on business analytics, data quality, SQL, Python and BI dashboards.
 
 ## Portfolio Projects
 
-### 1. RetailPulse Sales Analytics
+### [RetailPulse Sales Analytics](https://github.com/michaelklymenko/retailpulse-sales-analytics)
 End-to-end retail analytics project using Python, Pandas and Power BI.
 
-[View project]((https://github.com/michaelklymenko/retailpulse-sales-analytics)
+**Skills:** Python, Pandas, Power BI, KPI analysis, dashboarding
 
-### 2. SQL Data Quality Analytics
-SQL-focused project covering data cleaning, validation, reconciliation and business analysis.
+---
 
-[View project](https://github.com/michaelklymenko/datatrust-monitor-sql-analysis)
+### [DataTrust Monitor - SQL Analysis](https://github.com/michaelklymenko/datatrust-monitor-sql-analysis)
+SQL-focused data quality and business analysis project focused on validation, cleaning and analytical reporting.
