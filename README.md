@@ -1,16 +1,15 @@
-## Hi there 👋
+# Data Analytics Portfolio
 
-<!--
-**michaelklymenko/michaelklymenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Misha - Data Analyst with 2+ years of experience, building practical analytics projects focused on business insight, data quality and dashboarding.
 
-Here are some ideas to get you started:
+## Portfolio Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. RetailPulse Sales Analytics
+End-to-end retail analytics project using Python, Pandas and Power BI.
+
+[View project]((https://github.com/michaelklymenko/retailpulse-sales-analytics)
+
+### 2. SQL Data Quality Analytics
+SQL-focused project covering data cleaning, validation, reconciliation and business analysis.
+
+[View project](https://github.com/michaelklymenko/datatrust-monitor-sql-analysis)
