@@ -3,8 +3,7 @@
 ### [RetailPulse Sales Analytics](https://github.com/michaelklymenko/retailpulse-sales-analytics)
 End-to-end retail analytics project covering sales performance, profit analysis and KPI tracking.
 **Tools:**
-- Python
-- Pandas
+- Python (Pandas)
 - Jupyter Notebook
 - Power BI
 - GitHub
