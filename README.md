@@ -1,5 +1,16 @@
 ## Portfolio Projects
 
+### [UK Job Market Intelligence Pipeline](https://github.com/michaelklymenko/uk-job-market-pipeline.git)
+End-to-end job market analytics pipeline using Python, SQL, Tableau and Airflow.
+**Tools:**
+- SQL
+- Python (Pandas)
+- Jupyter Notebook
+- A/B test
+- Tableau
+- Apache Airflow
+
+---
 ### [DataTrust Monitor - SQL Analysis](https://github.com/michaelklymenko/datatrust-monitor-sql-analysis)
 SQL-focused data quality and business analysis project covering data validation, cleaning and analytical reporting.
 
@@ -8,6 +19,7 @@ SQL-focused data quality and business analysis project covering data validation,
 - Python (Pandas)
 - Jupyter Notebook
 - GitHub
+- Power BI
 
 ---
 
