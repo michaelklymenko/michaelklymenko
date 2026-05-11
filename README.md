@@ -1,5 +1,19 @@
 ## Portfolio Projects
+### [B2B SaaS Retention Analytics ETL Pipeline](https://github.com/michaelklymenko/b2b-saas-retention-analytics-etl-pipeline.git)
+End-to-end B2B SaaS retention analytics project focused on churn analysis, revenue at risk, ETL pipeline development and workflow orchestration using Python, SQL, Tableau, Apache Airflow and Dagster.
 
+**Tools:**
+- SQL
+- Python (Pandas)
+- Jupyter Notebook
+- A/B test
+- Tableau
+- Apache Airflow
+- Dagster
+- Docker
+- DuckDB
+
+---
 ### [UK Job Market Intelligence Pipeline](https://github.com/michaelklymenko/uk-job-market-pipeline.git)
 End-to-end job market analytics pipeline using Python, SQL, Tableau and Airflow.
 **Tools:**
